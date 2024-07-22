@@ -1,4 +1,4 @@
-# 🔎 Face Detection - Computer Vision 
+# 🔎 Face Detection - Computer Vision 🕵🏼
 
 ## 🛠 Project Details:
 
