@@ -8,9 +8,9 @@ This project implements real-time face detection in images using OpenCV, a power
 
 OpenCV (Open Source Computer Vision Library) (https://opencv.org/)
 
-Haarcascade Classifiers (Pre-trained face detection models) (https://m.youtube.com/watch?v=V-EROj-3pEw)
-
 Matplotlib (Optional: for visualization) (https://matplotlib.org/)
+
+Haarcascade Classifiers (Pre-trained face detection models) (https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html)
 
 ## 🌟 How to run
 
