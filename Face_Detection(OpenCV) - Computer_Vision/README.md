@@ -18,6 +18,6 @@ Running the script is really simple! Just open a `terminal` and type `jupyter no
 
 ## 📺 Demo
 <p align="center">
-<img src="" width=70% height=70%>
+<img src="https://github.com/naman648/PROJECTS/blob/3d60503e65908ab6e960a04f0cc679804be6e5df/Face_Detection(OpenCV)%20-%20Computer_Vision/Result_image.png" width=70% height=70%>
 
 # 🎓 AuthorInfo: Naman Verma (namanverma648@gmail.com)
