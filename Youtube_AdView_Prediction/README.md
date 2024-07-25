@@ -1,22 +1,18 @@
-## 🔎 Face Detection - Computer Vision 
+## 💽 YOUTUBE ADVIEW PREDICTION 
 
 ## 🛠 Project Details:
 
-This project implements real-time face detection in images using OpenCV, a powerful computer vision library for Python. It leverages pre-trained Haarcascade classifiers to identify faces within images with high accuracy.
+Developed a predictive model to estimate the number of ad views for YouTube videos, leveraging advanced machine learning techniques to assist marketers in optimizing their ad strategies.
 
 ## 💻 Technologies Used :
 
-OpenCV (Open Source Computer Vision Library) (https://opencv.org/)
-Haarcascade Classifiers (Pre-trained face detection models) (https://m.youtube.com/watch?v=V-EROj-3pEw)
-Matplotlib (Optional: for visualization) (https://matplotlib.org/)
-
-## 🌟 How to run
-
-Running the script is really simple! Just open a `terminal` and type `jupyter notebook` then hit `enter` key in the folder where your script is located and run the following command:
-
-## 📺 Demo
-<p align="center">
-<img src="C:\Users\91626\Face_Detection(OpenCV)\test_image.jpg" width=70% height=70%>
+- 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲: Python
+- 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀 𝗮𝗻𝗱 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀:
+        Pandas for data manipulation and analysis
+        NumPy for numerical computations
+        Scikit-learn for model building and evaluation
+        Matplotlib and Seaborn for data visualization
+- 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗘𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁: Jupyter Notebook for interactive development and experimentation
 
 # 🎓 AuthorInfo: Naman Verma (namanverma648@gmail.com)
 
