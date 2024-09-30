@@ -1,4 +1,7 @@
 # ⛓️‍💥 PROJECTS💡
+## ➡️ FAKE NEWS DETECTION USING PYTHON WITH MACHINE-LEARNING 📰🚫
+<img src="https://github.com/naman648/PROJECTS/blob/c8f621e79570fa0992d57e979c511aaf3b7e630a/FAKE_NEWS_DETECTION_USING_PYTHON_WITH_ML/fake_news_logo.png" width=20% height=20%>
+
 ## ➡️ FACE DETECTION (OpenCV) - COMPUTER VISION 🤖
 <img src="https://github.com/naman648/PROJECTS/blob/176af287d2b0f16d2c7de5ee5ebf53814e3f74e4/Face_Detection(OpenCV)%20-%20Computer_Vision/FACE_detection_logo.jpg" width=20% height=20%>
 
