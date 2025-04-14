@@ -12,7 +12,7 @@
 <img src="https://github.com/naman648/PROJECTS/blob/3394e7b8cb78ed2f9937814e155a2711a000eb48/NASA_Image_Extraction_And_Audio_Explaination/Apod_logo.png" width=37% height=35%>
 
 ## ➡️ OsteoScan: Osteoporosis Risk Prediction🦴
-<img src="https://github.com/naman648/PROJECTS/blob/3394e7b8cb78ed2f9937814e155a2711a000eb48/" width=37% height=35%>
+<img src="https://github.com/naman648/PROJECTS/blob/8dd247142429f4d1701750c7231b189d8f85ab61/OsteoScan%3A%20Osteoporosis%20Risk%20Prediction/ost_logo.webp" width=27% height=25%>
 
 ## ➡️YOUTUBE ADVIEW PREDICTION 📀
 <img src = "https://github.com/naman648/PROJECTS/blob/56fcef140982f07ee882e691b3a7090a5b1ff368/Youtube_AdView_Prediction/ytviewslogo.jpg" width = 40% height = 10%>
